@@ -11,7 +11,7 @@ public class Main
 		inOrder(root);
 		}
 // 		inOrder traverse:- left root right
-//   		10               
+//   	    10               
 //        /   \
 //      20     50
 //    /   \   /  \
