@@ -10,13 +10,13 @@ public class Main
 		root.right.right=new Node(70);
 		preOrder(root);
 		}
-// 		inOrder traverse:- root left right
+// 		preOrder traverse:- root left right
 //   		10               
 //        /   \
 //      20     50
 //    /   \   /  \
 //  30    40 60   70
-//  inorder : 10 20 30 40 50 60 70
+//  preorder : 10 20 30 40 50 60 70
 
 	static void preOrder(Node root)	{
 	    if(root!=null){
