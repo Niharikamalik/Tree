@@ -1,5 +1,12 @@
 //  Binary Tree : A Tree is said to be Binary tree if all of its nodes have at most 2 children. 
 //                that is all its node can have either no child ,1 child or 2 child .
+//  EXAMPLE : 
+// 	    10                        10                        10     
+//        /   \                     /    \                   
+//      20     50                  20     50                
+//    /   \   /  \               /                         
+//  30    40 60   70           30                        
+  
 
 public class Main
 {
